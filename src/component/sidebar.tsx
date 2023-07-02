@@ -125,7 +125,7 @@ const AdminSidebar: React.FC = () => {
           <Grid component={"div"} className="bottom">
             <Grid component={"div"} className="user">
               <img src={user} alt="user" />
-              <Typography variant="h3">Blessing Daniels</Typography>
+              <Typography variant="h3" className="name">Blessing Daniels</Typography>
             </Grid>
           </Grid>
         </Grid>
