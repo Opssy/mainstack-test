@@ -131,6 +131,7 @@ h3{
     line-height: 40px;
     color: #56616B;
     padding-left: 20px;
+    white-space: nowrap;
 
 }
 .up{
